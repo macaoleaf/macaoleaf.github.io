@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Also available in PDF format.](https://macaoleaf.github.io/files/CV.pdf)
 
 Education
 ======
@@ -57,6 +57,7 @@ Experience
   * Research about decoding in EEG-based Brain-Computer Interface using deep learning
   * Research about applying transfer learning framework onto certain SOTA networks in CV
   * In preparation of publishing a paper
+  * **Technologies**: machine learning, deep learning, transfer learning, computer vision, Brain-Computer Interaction, TensorFlow, PyTorch, Python
 
 Extra-Curricular
 ======
