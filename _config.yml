@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "macaoleaf's home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zisheng Ye"
   avatar           : "profile.png"
-  bio              : "Stay foolish, \nstay simple."
+  bio              : "Stay foolish,     stay simple."
   location         : "Montreal, QC, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "zisheng.ye@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"zisheng-ye-a94b03118"
+  linkedin         : "zisheng-ye-a94b03118"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
