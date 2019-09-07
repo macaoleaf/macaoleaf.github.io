@@ -4,7 +4,8 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-\*: Currently taking
+\*: Currently taking  
+
 Credit-Oriented Courses:
 ======
 - Mathematics:
