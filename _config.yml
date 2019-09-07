@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zisheng Ye"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Stay foolish stay simple."
   location         : "Montreal, QC, CA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/zisheng-ye-a94b03118/"
+  linkedin         : "zisheng-ye-a94b03118"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
