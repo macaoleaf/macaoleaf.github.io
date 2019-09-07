@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "macaoleaf's home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zisheng Ye"
 description              : &description "personal description"
 url                      : https://macaoleaf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zisheng Ye"
   avatar           : "profile.png"
-  bio              : "Stay foolish,     stay simple."
+  bio              : "A fool on the run."
   location         : "Montreal, QC, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "zisheng.ye@mail.mcgill.ca"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
