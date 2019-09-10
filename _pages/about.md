@@ -16,4 +16,4 @@ Being a typical engineer does not seem intriguing to me. Working in a big compan
 
 Therefore, pursuing a Ph.D. degree is a must. I'm always trying to take the most relavant [courses](https://macaoleaf.github.io/courses/) to get more prepared. Currently, my research interest focuses on subfields in machine learning, such as transfer learning and deep learning. As I haven't found my "true love" topic for my future graduate studies (yet!), I am eager to grab every oppotunity, to try something new, and to find a topic that I'm passionate about.  
 
-**<font color="red">If you are seeking a student as a research assistant, please don't hesistate to [know more](https://macaoleaf.github.io/cv/) about me, and feel free to [get in touch with me](https://macaoleaf.github.io/contact/).</font>**
+**<font color="red">If you are seeking a student as a research assistant, please don't hesistate to</font> [know more](https://macaoleaf.github.io/cv/) <font color="red">about me, and feel free to</font> [get in touch with me](https://macaoleaf.github.io/contact/)<font color="red">.</font>**
