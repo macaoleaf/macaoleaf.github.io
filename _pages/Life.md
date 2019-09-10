@@ -1,8 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Life"
-excerpt: "Life"
+permalink: /life/
 author_profile: true
 ---
-
 Testing
