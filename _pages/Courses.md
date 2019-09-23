@@ -40,5 +40,5 @@ Credit-Oriented Courses:
   - **COMP 445** Computational Linguistics\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-445)
   - **COMP 550** Natural Language Processing\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-550)
   - **COMP 551** Applied Machine Learning [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-551)
-  - **COMP 558** Fundamentals of Computer Vision [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
+  - **COMP 558** Fundamentals of Computer Vision\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
   - **COMP 566** Discrete Optimization 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-566)
