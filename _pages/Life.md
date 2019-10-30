@@ -8,7 +8,7 @@ author_profile: true
 I'm a fan of music. Although I have not received any theoretical training in music, I am strongly interested in its beats and how to perform it using vocal technique. I am a pro-level Music Game player (not a top one though) - check out some of my best plays if interested! I have uploaded them both on bilibili and YouTube: [Stepmania (PC) [bilibili](https://www.bilibili.com/video/av67422894/) [YouTube](https://www.youtube.com/watch?v=7mtCqDasRP4&t=332s)] [乐动时代 (Tablet) [bilibili](https://www.bilibili.com/video/av67417951/) [YouTube](https://www.youtube.com/watch?v=ozFUyi3ZzOI)]
 
   - <font color="red">Music Game Dan Course (段位) Update: (96% Pass)</font>
-    - <font color="red">Alpha Dan - 96.65% - 2019/10/29</font>
+    - <font color="red">Reform Alpha Dan - 96.65% - 2019/10/29</font>
     - <font color="red">10 Dan v1 - 96.15% - 2019/10/28</font>
     - <font color="red">Malody Extra 4 Dan - 96.56% - 2019/10/28</font>
     - <font color="red">Malody Extra 3 Dan - 96.45% - 2019/09/18</font>
