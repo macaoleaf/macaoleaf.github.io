@@ -6,7 +6,7 @@ author_profile: true
 ---
 \*: Currently taking
 
-I am curious about unfamiliar topics in various fields, and I am passionate about diving into these fields to understand them. I never lack self-motivation :)
+I am curious about unfamiliar topics in various fields, and I am passionate about diving into these fields to understand them. Lacking self-motivation never happens to me :)
 
 Credit-Oriented Courses:
 ======
