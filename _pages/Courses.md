@@ -45,8 +45,15 @@ Credit-Oriented Courses:
   - **COMP 558** Fundamentals of Computer Vision\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
   - **COMP 566** Discrete Optimization 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-566)
 
-<!-- Extracurricular Courses: -->
-<!-- ================ -->
+Extracurricular Courses:
+================
+- Computer Science:
+  - **Coursera** Deep Learning Specialization [*Link*](https://www.coursera.org/specializations/deep-learning)
+    - Neural Networks and Deep Learning
+    - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+    - Structuring Machine Learning Projects
+    - Convolutional Neural Networks
+    - Sequence Models\*
 
 *About-to-take Courses*:
 ======
