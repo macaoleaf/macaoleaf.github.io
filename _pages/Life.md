@@ -15,6 +15,7 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
     - <font color="red">Malody Extra 1 Dan - 96.99% - 2019/09/17</font>
     - <font color="red">Malody Extra 0 Dan - 97.86% - 2019/09/17</font>
+    - <font color="red">(afk for 3 years)</font>
     - <font color="red">9 Dan v1 - 97.92% - 2016/08/13</font>
     - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
     - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font>
