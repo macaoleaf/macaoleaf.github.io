@@ -19,7 +19,7 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - <font color="red">9 Dan v1 - 97.92% - 2016/08/13</font>
     - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
     - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font>
-    - <font color="red">(Untrackable history)</font>
+    - <font color="red">(Untraceable history)</font>
 
 
 - Sport  
