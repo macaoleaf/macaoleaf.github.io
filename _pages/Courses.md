@@ -4,7 +4,9 @@ title: "Courses"
 permalink: /courses/
 author_profile: true
 ---
-\*: Currently taking  
+\*: Currently taking
+
+I am curious about unfamiliar topics in various fields, and I am passionate about diving into these fields to understand them. I never lack self-motivation :)
 
 Credit-Oriented Courses:
 ======
@@ -42,3 +44,17 @@ Credit-Oriented Courses:
   - **COMP 551** Applied Machine Learning [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-551)
   - **COMP 558** Fundamentals of Computer Vision\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
   - **COMP 566** Discrete Optimization 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-566)
+
+<!-- Extracurricular Courses: -->
+<!-- ================ -->
+
+*About-to-take Courses*:
+======
+- Computer Science:
+  - **Coursera** Cryptography and Information Theory [*Link*](https://www.coursera.org/learn/crypto-info-theory)
+  - **Coursera** Blockchain Specialization [*Link*](https://www.coursera.org/specializations/blockchain)
+    - Blockchain Basics
+    - Smart Contracts
+    - Decentralized Applications (Dapps)
+    - Blockchain Platforms
+  - **Coursera** The Introduction to Quantum Computing [*Link*](https://www.coursera.org/learn/quantum-computing-algorithms)
