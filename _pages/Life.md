@@ -9,22 +9,22 @@ I'm a fan of music. Although I have not received any theoretical training in mus
 
   - <font color="red">Music Game Dan Course (段位) Update: (96% Pass)</font>
     - **<font color="red">Reform Alpha Dan - 96.65% - 2019/10/29</font>**
-    - <font color="red">(Some cleaning work on 2019/10/30)</font>
+    - *<font color="red">(Some cleaning work on 2019/10/30)</font>*
     - <font color="red">Reform 10 Dan - 97.11% - 2019/10/30</font>
     - <font color="red">Reform 9 Dan - 98.11% - 2019/10/30</font>
     - <font color="red">10 Dan v2 - 96.36% - 2019/10/30</font>
     - <font color="red">10 Dan v1 - 96.15% - 2019/10/28</font>
     - <font color="red">Malody Extra 4 Dan - 96.56% - 2019/10/28</font>
-    - <font color="red">9 Dan v2 - 96.54% - 2019/09/29</font>
+    - *<font color="red">9 Dan v2 - 96.54% - 2019/09/29</font>*
     - <font color="red">Malody Extra 3 Dan - 96.45% - 2019/09/18</font>
     - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
     - <font color="red">Malody Extra 1 Dan - 96.99% - 2019/09/17</font>
     - <font color="red">Malody Extra 0 Dan - 97.86% - 2019/09/17</font>
-    - <font color="red">(afk for 3 years)</font>
+    - *<font color="red">(afk for 3 years)</font>*
     - <font color="red">9 Dan v1 - 97.92% - 2016/08/13</font>
     - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
     - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font>
-    - <font color="red">(Untraceable history)</font>
+    - *<font color="red">(Untraceable history)</font>*
 
 
 - Sport  
