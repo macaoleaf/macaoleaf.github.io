@@ -15,7 +15,7 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - <font color="red">10 Dan v2 - 96.36% - 2019/10/30</font>
     - <font color="red">10 Dan v1 - 96.15% - 2019/10/28</font>
     - <font color="red">Malody Extra 4 Dan - 96.56% - 2019/10/28</font>
-    - *<font color="red">9 Dan v2 - 96.54% - 2019/09/29</font>*
+    - <font color="red">9 Dan v2 - 96.54% - 2019/09/29</font>
     - <font color="red">Malody Extra 3 Dan - 96.45% - 2019/09/18</font>
     - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
     - <font color="red">Malody Extra 1 Dan - 96.99% - 2019/09/17</font>
