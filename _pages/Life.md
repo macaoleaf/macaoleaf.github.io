@@ -12,7 +12,7 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - *<font color="red">(LN training for MWC4K2020 from 2019/11/09)</font>*
     - <font color="red">LN 6 Dan - 96.00% - 2019/11/26</font>
     - <font color="red">LN 5 Dan - 96.16% - 2019/11/25</font>
-    - <font color="red">LN 4 Dan - 97.23% - 2019/11/26</font>
+    - <font color="red">LN 4 Dan - 96.23% - 2019/11/26</font>
     - <font color="red">LN 3 Dan - 96.28% - 2019/11/12</font>
     - <font color="red">LN 2 Dan - 96.56% - 2019/11/12</font>
     - <font color="red">LN 1 Dan - 97.14% - 2019/11/09</font>
