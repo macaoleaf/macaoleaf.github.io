@@ -9,6 +9,13 @@ I'm a fan of music. Although I have not received any theoretical training in mus
 
   - <font color="red">Music Game Dan Course (段位) Update: (96% Pass)</font>
     - **<font color="red">Reform Alpha Dan - 96.65% - 2019/10/29</font>**
+    - *<font color="red">(LN training for MWC4K2020 from 2019/11/09)</font>*
+    - <font color="red">LN 6 Dan - 96.00% - 2019/11/26</font>
+    - <font color="red">LN 5 Dan - 96.16% - 2019/11/25</font>
+    - <font color="red">LN 4 Dan - 97.23% - 2019/11/26</font>
+    - <font color="red">LN 3 Dan - 96.28% - 2019/11/12</font>
+    - <font color="red">LN 2 Dan - 96.56% - 2019/11/12</font>
+    - <font color="red">LN 1 Dan - 97.14% - 2019/11/09</font>
     - *<font color="red">(Some cleaning work on 2019/10/30)</font>*
     - <font color="red">Reform 10 Dan - 97.11% - 2019/10/30</font>
     - <font color="red">Reform 9 Dan - 98.11% - 2019/10/30</font>
