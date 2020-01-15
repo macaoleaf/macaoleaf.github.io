@@ -13,10 +13,6 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - **<font color="red">LN 6 Dan - (96.00%/96.00%) - 2019/11/26</font>**
     - <font color="red">LN 5 Dan - (96.16%/96.00%) - 2019/11/25</font>
     - <font color="red">LN 4 Dan - (96.23%/96.00%) - 2019/11/26</font>
-    <!-- - <font color="red">LN 3 Dan - 96.28% - 2019/11/12</font>
-    - <font color="red">LN 2 Dan - 96.56% - 2019/11/12</font>
-    - <font color="red">LN 1 Dan - 97.14% - 2019/11/09</font> -->
-    <!-- - *<font color="red">(Some cleaning work on 2019/10/30)</font>* -->
     - <font color="red">Reform 10 Dan - (97.11%/96.00%) - 2019/10/30</font>
     - <font color="red">Reform 9 Dan - (98.15%/96.00%) - 2019/10/30</font>
     - <font color="red">10 Dan v2 - (96.36%/96.00%) - 2019/10/30</font>
@@ -24,15 +20,8 @@ I'm a fan of music. Although I have not received any theoretical training in mus
     - <font color="red">Malody Extra 4 Dan - (96.56%/95.00%) - 2019/10/28</font>
     - <font color="red">9 Dan v2 - (96.54%/96.00%) - 2019/09/29</font>
     - <font color="red">Malody Extra 3 Dan - (96.45%/95.00%) - 2019/09/18</font>
-    <!-- - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
-    - <font color="red">Malody Extra 1 Dan - 96.99% - 2019/09/17</font>
-    - <font color="red">Malody Extra 0 Dan - 97.86% - 2019/09/17</font> -->
     - *<font color="red">(afk for 3 years)</font>*
     - <font color="red">9 Dan v1 - (97.92%/96.00%) - 2016/08/13</font>
-    <!-- - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
-    - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font> -->
-    <!-- - *<font color="red">(Untraceable history)</font>* -->
-
 
 - Sport  
 I'm also a sporty guy, who is crazy about playing table tennis. I've been a varsity team member of McGill throughout my undergraduate time, and during my exchange in CUHK, I also played for the college team and won the gold medal [[pic](/images/TTCUHK.jpg)]. As an amateur player who hasn't received decent training until high school time, I'm pretty satisfied with my achievement so far. I enjoy both playing matches and doing trick shots, and I would enjoy the most if I can combine both occationally. Luckily I do have some of them recorded:   
