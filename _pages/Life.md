@@ -7,31 +7,31 @@ author_profile: true
 - Music  
 I'm a fan of music. Although I have not received any theoretical training in music, I am strongly interested in its beats and how to perform it using vocal technique. I am a pro-level Music Game player (not a top one though) - check out some of my plays if interested! I have uploaded them both on bilibili and YouTube: [Stepmania (PC) [bilibili](https://www.bilibili.com/video/av67422894/) [YouTube](https://www.youtube.com/watch?v=7mtCqDasRP4&t=332s)] [乐动时代 (Tablet) [bilibili](https://www.bilibili.com/video/av67417951/) [YouTube](https://www.youtube.com/watch?v=ozFUyi3ZzOI)]
   - My osu!mania skin: [macaoleaf skin download](/files/macaoleaf.zip)
-  - <font color="red">Music Game Dan Course (段位) Update: (96% Pass)</font>
-    - **<font color="red">Reform Alpha Dan - 96.65% - 2019/10/29</font>**
-    - *<font color="red">(LN training for MWC4K2020 from 2019/11/09)</font>*
-    - **<font color="red">LN 6 Dan - 96.00% - 2019/11/26</font>**
-    - <font color="red">LN 5 Dan - 96.16% - 2019/11/25</font>
-    - <font color="red">LN 4 Dan - 96.23% - 2019/11/26</font>
-    - <font color="red">LN 3 Dan - 96.28% - 2019/11/12</font>
+  - <font color="red">Osu!Mania 4k High Level Dan Courses (段位) Update: (Achieved/Required)</font>
+    - **<font color="red">Reform Beta Dan - (96.03%/96.00%) - 2020/01/07</font>**
+    - <font color="red">Reform Alpha Dan - (96.65%/96.00%) - 2019/10/29</font>
+    - **<font color="red">LN 6 Dan - (96.00%/96.00%) - 2019/11/26</font>**
+    - <font color="red">LN 5 Dan - (96.16%/96.00%) - 2019/11/25</font>
+    - <font color="red">LN 4 Dan - (96.23%/96.00%) - 2019/11/26</font>
+    <!-- - <font color="red">LN 3 Dan - 96.28% - 2019/11/12</font>
     - <font color="red">LN 2 Dan - 96.56% - 2019/11/12</font>
-    - <font color="red">LN 1 Dan - 97.14% - 2019/11/09</font>
-    - *<font color="red">(Some cleaning work on 2019/10/30)</font>*
-    - <font color="red">Reform 10 Dan - 97.11% - 2019/10/30</font>
-    - <font color="red">Reform 9 Dan - 98.11% - 2019/10/30</font>
-    - <font color="red">10 Dan v2 - 96.36% - 2019/10/30</font>
-    - <font color="red">10 Dan v1 - 96.15% - 2019/10/28</font>
-    - <font color="red">Malody Extra 4 Dan - 96.56% - 2019/10/28</font>
-    - <font color="red">9 Dan v2 - 96.54% - 2019/09/29</font>
-    - <font color="red">Malody Extra 3 Dan - 96.45% - 2019/09/18</font>
-    - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
+    - <font color="red">LN 1 Dan - 97.14% - 2019/11/09</font> -->
+    <!-- - *<font color="red">(Some cleaning work on 2019/10/30)</font>* -->
+    - <font color="red">Reform 10 Dan - (97.11%/96.00%) - 2019/10/30</font>
+    - <font color="red">Reform 9 Dan - (98.15%/96.00%) - 2019/10/30</font>
+    - <font color="red">10 Dan v2 - (96.36%/96.00%) - 2019/10/30</font>
+    - <font color="red">10 Dan v1 - (96.15%/96.00%) - 2019/10/28</font>
+    - <font color="red">Malody Extra 4 Dan - (96.56%/95.00%) - 2019/10/28</font>
+    - <font color="red">9 Dan v2 - (96.54%/96.00%) - 2019/09/29</font>
+    - <font color="red">Malody Extra 3 Dan - (96.45%/95.00%) - 2019/09/18</font>
+    <!-- - <font color="red">Malody Extra 2 Dan - 96.38% - 2019/09/18</font>
     - <font color="red">Malody Extra 1 Dan - 96.99% - 2019/09/17</font>
-    - <font color="red">Malody Extra 0 Dan - 97.86% - 2019/09/17</font>
+    - <font color="red">Malody Extra 0 Dan - 97.86% - 2019/09/17</font> -->
     - *<font color="red">(afk for 3 years)</font>*
-    - <font color="red">9 Dan v1 - 97.92% - 2016/08/13</font>
-    - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
-    - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font>
-    - *<font color="red">(Untraceable history)</font>*
+    - <font color="red">9 Dan v1 - (97.92%/96.00%) - 2016/08/13</font>
+    <!-- - <font color="red">8 Dan v1 - 97.69% - 2016/08/13</font>
+    - <font color="red">7 Dan v1 - 98.21% - 2016/08/13</font> -->
+    <!-- - *<font color="red">(Untraceable history)</font>* -->
 
 
 - Sport  
