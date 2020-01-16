@@ -18,8 +18,7 @@ Credit-Oriented Courses:
   - **MATH 223** Linear Algebra [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-223)
   - **MATH 235** Algebra 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-235)
   - **MATH 242** Analysis 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-242)
-
-  <!-- - **MATH 314** Advanced Calculus\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-314) -->
+  - **MATH 314** Advanced Calculus\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-314)
   - **MATH 315** Ordinary Differential Equations [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-315)
   - **MATH 323** Probability [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-323)
   - **MATH 324** Statistics [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-324)
@@ -36,13 +35,16 @@ Credit-Oriented Courses:
   - **COMP 273** Introduction to Computer Systems [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-273)
   - **COMP 302** Programming Languages and Paradigms [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-302)
   - **COMP 310** Operating Systems [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-310)
+  - **COMP 321** Programming Challenges\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-321)
+  - **COMP 322** Introduction to C++\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-322)
   - **COMP 330** Theory of Computation [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-330)
   - **COMP 350** Numerical Computing [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-350)
   - **COMP 360** Algorithm Design [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-360)
-  - **COMP 445** Computational Linguistics\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-445)
-  - **COMP 550** Natural Language Processing\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-550)
+  - **COMP 424** Artificial Intelligence\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-424)
+  - **COMP 445** Computational Linguistics [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-445)
+  - **COMP 550** Natural Language Processing [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-550)
   - **COMP 551** Applied Machine Learning [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-551)
-  - **COMP 558** Fundamentals of Computer Vision\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
+  - **COMP 558** Fundamentals of Computer Vision [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-558)
   - **COMP 566** Discrete Optimization 1 [*Link*](https://www.mcgill.ca/study/2019-2020/courses/comp-566)
 
 Extracurricular Courses:
@@ -54,6 +56,9 @@ Extracurricular Courses:
     - Structuring Machine Learning Projects
     - Convolutional Neural Networks
     - Sequence Models\*
+
+- Mathematics:
+  - **Princeton** Differential Topology [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
 
 *About-to-take Courses*:
 ======
