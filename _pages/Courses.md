@@ -26,6 +26,7 @@ Credit-Oriented Courses:
   - **MATH 340** Discrete Mathematics [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-340)
   - **MATH 423** Regression and Analysis of Variance [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-423)
   - **MATH 447** Introduction to Stochastic Processes [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-447)
+  - **MATH 545** Introduction to Time Series Analysis\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-545)
   - **MATH 553** Algorithmic Game Theory\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-553)
   - **MATH 560** Optimization [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-560)
 
