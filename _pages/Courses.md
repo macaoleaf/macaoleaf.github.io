@@ -60,6 +60,7 @@ Extracurricular Courses:
     - Sequence Models\*
 
 - Mathematics:
+  - **MIT** Introduction to Topology\* [*Link*](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/index.htm)
   - **Princeton** Differential Topology\* [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
 
 *About-to-take Courses*:
