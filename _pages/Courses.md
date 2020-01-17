@@ -22,6 +22,7 @@ Credit-Oriented Courses:
   - **MATH 315** Ordinary Differential Equations [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-315)
   - **MATH 323** Probability [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-323)
   - **MATH 324** Statistics [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-324)
+  - **MATH 329** Theory of Interest\* [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-329)
   - **MATH 340** Discrete Mathematics [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-340)
   - **MATH 423** Regression and Analysis of Variance [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-423)
   - **MATH 447** Introduction to Stochastic Processes [*Link*](https://www.mcgill.ca/study/2019-2020/courses/math-447)
@@ -58,7 +59,7 @@ Extracurricular Courses:
     - Sequence Models\*
 
 - Mathematics:
-  - **Princeton** Differential Topology [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
+  - **Princeton** Differential Topology\* [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
 
 *About-to-take Courses*:
 ======
