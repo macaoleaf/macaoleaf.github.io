@@ -7,21 +7,8 @@ author_profile: true
 - Music  
 I'm a fan of music. Although I have not received any theoretical training in music, I am strongly interested in its beats and how to perform it using vocal technique. I am a pro-level Music Game player (not a top one though) - check out some of my plays if interested! I have uploaded them both on bilibili and YouTube: [Stepmania (PC) [bilibili](https://www.bilibili.com/video/av67422894/) [YouTube](https://www.youtube.com/watch?v=7mtCqDasRP4&t=332s)] [乐动时代 (Tablet) [bilibili](https://www.bilibili.com/video/av67417951/) [YouTube](https://www.youtube.com/watch?v=ozFUyi3ZzOI)]
   - My osu!mania/etterna skins: [macaoleaf skins download](/files/macaoleaf_skins_20200428.zip)
-  - <font color="red">Osu!Mania 4k High Level Dan Courses (段位) Update: (Achieved/Required)</font>
-    - **<font color="red">Reform Beta Dan - (96.03%/96.00%) - 2020/01/07</font>**
-    - <font color="red">Reform Alpha Dan - (96.65%/96.00%) - 2019/10/29</font>
-    - **<font color="red">LN 6 Dan - (96.00%/96.00%) - 2019/11/26</font>**
-    - <font color="red">LN 5 Dan - (96.16%/96.00%) - 2019/11/25</font>
-    - <font color="red">LN 4 Dan - (96.23%/96.00%) - 2019/11/26</font>
-    - <font color="red">Reform 10 Dan - (97.11%/96.00%) - 2019/10/30</font>
-    - <font color="red">Reform 9 Dan - (98.15%/96.00%) - 2019/10/30</font>
-    - <font color="red">10 Dan v2 - (96.36%/96.00%) - 2019/10/30</font>
-    - <font color="red">10 Dan v1 - (96.15%/96.00%) - 2019/10/28</font>
-    - <font color="red">Malody Extra 4 Dan - (96.56%/95.00%) - 2019/10/28</font>
-    - <font color="red">9 Dan v2 - (96.54%/96.00%) - 2019/09/29</font>
-    - <font color="red">Malody Extra 3 Dan - (96.45%/95.00%) - 2019/09/18</font>
-    - *<font color="red">(afk for 3 years)</font>*
-    - <font color="red">9 Dan v1 - (97.92%/96.00%) - 2016/08/13</font>
+  - [My osu!mania page](https://osu.ppy.sh/users/7082716)
+  - [My etterna page](https://etternaonline.com/user/macaoleaf)
 
 - Sport  
 I'm also a sporty guy, who is crazy about playing table tennis. I've been a varsity team member of McGill throughout my undergraduate time, and during my exchange in CUHK, I also played for the college team and won the gold medal [[pic](/images/TTCUHK.jpg)]. As an amateur player who hasn't received decent training until high school time, I'm pretty satisfied with my achievement so far. I enjoy both playing matches and doing trick shots, and I would enjoy the most if I can combine both occationally. Luckily I do have some of them recorded:   
