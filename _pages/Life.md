@@ -6,7 +6,7 @@ author_profile: true
 ---
 - Music  
 I'm a fan of music. Although I have not received any theoretical training in music, I am strongly interested in its beats and how to perform it using vocal technique. I am a pro-level Music Game player (not a top one though) - check out some of my plays if interested! I have uploaded them both on bilibili and YouTube: [Stepmania (PC) [bilibili](https://www.bilibili.com/video/av67422894/) [YouTube](https://www.youtube.com/watch?v=7mtCqDasRP4&t=332s)] [乐动时代 (Tablet) [bilibili](https://www.bilibili.com/video/av67417951/) [YouTube](https://www.youtube.com/watch?v=ozFUyi3ZzOI)]
-  - My osu!mania skin: [macaoleaf skin download](/files/macaoleaf.zip)
+  - My osu!mania skin: [macaoleaf skin download](/files/macaoleaf_skins_20200428.zip)
   - <font color="red">Osu!Mania 4k High Level Dan Courses (段位) Update: (Achieved/Required)</font>
     - **<font color="red">Reform Beta Dan - (96.03%/96.00%) - 2020/01/07</font>**
     - <font color="red">Reform Alpha Dan - (96.65%/96.00%) - 2019/10/29</font>
