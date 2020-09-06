@@ -42,7 +42,7 @@ Projects
   * **AI Player for Game Saboteur**, Jan 2020 - May 2020
     * Designed and implemented an AI player for a non-deterministic board game called Saboteur using Breadth-First Search and A\* Search
     * Decision tree pruned by human's experience
-    * Ranked top 20\% among all competitors
+    * Ranked top 20% among all competitors
     * Written report with distinction
 
   * **Identity Finder**, Nov 2018
