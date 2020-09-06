@@ -61,4 +61,4 @@ Skills and Interests
 * **Certifications:** Deep Learning Specialization (deeplearning.ai), Classical Music (Yale), Psychological First Aid (John Hopkins)
 * **Languages:** Mandarin (Native), Cantonese (Fluent), English (Fluent), French (Beginner)
 * **Sports:** Table Tennis (University Varsity Team), ESports (Music Game, National Team, World Cup participant)
-* **Voluntary Work:** Personal Startup Developer (CV algorithm design, data analysis and technical support), Music Game Developer (UI and algorithm design), Peer Tutor Program (Maths \& Stats Department, McGill)
+* **Voluntary Work:** Personal Startup Developer (CV algorithm design, data analysis and technical support), Music Game Developer (UI and algorithm design), Peer Tutor Program (Maths & Stats Department, McGill)
