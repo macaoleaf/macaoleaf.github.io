@@ -8,7 +8,7 @@ redirect_from:
 ---
 (Update time: 6th Sep, 2020)
 
-[Also available in PDF format.](https://macaoleaf.github.io/files/CV.pdf)
+[Also available in PDF format.](https://macaoleaf.github.io/files/CV20200906.pdf)
 
 Education
 ======
