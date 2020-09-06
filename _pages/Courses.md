@@ -63,9 +63,14 @@ Extra-curricular Courses:
     - Convolutional Neural Networks
     - Sequence Models
 
-- Mathematics:
-  - **MIT** Introduction to Topology\* [*Link*](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/index.htm)
-  - **Princeton** Differential Topology\* [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
+- Music:
+  - **Coursera** Introduction to Classical Music [*Link*](https://www.coursera.org/learn/introclassicalmusic)
+
+- Finance:
+  - **McGill** McGill Personal Finance Essentials [*Link*](https://www.mcgillpersonalfinance.com)
+
+- Psychology:
+  - **Coursera** Psychological First Aid [*Link*](https://www.coursera.org/learn/psychological-first-aid/)
 
 *About-to-take Courses*:
 ======
@@ -76,3 +81,7 @@ Extra-curricular Courses:
     - Smart Contracts
     - Decentralized Applications (Dapps)
     - Blockchain Platforms
+
+- Mathematics:
+  - **MIT** Introduction to Topology [*Link*](https://ocw.mit.edu/courses/mathematics/18-901-introduction-to-topology-fall-2004/index.htm)
+  - **Princeton** Differential Topology [*Link*](https://www.simonsfoundation.org/2011/04/28/john-w-milnor/)
