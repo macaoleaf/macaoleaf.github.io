@@ -32,7 +32,7 @@ Experience
   * Proposed novel methods in similarity measurement of vectors
   * Made an oral defense
 
-* **Machine Learning Algorithm Engineer**, _Supervisor: Dr. Jinfeng Yi, Machine Learning Lab, JD.com AI Research, Beijing \& Nanjing_, Jun 2018 - Aug 2018
+* **Machine Learning Algorithm Engineer**, _Supervisor: Dr. Jinfeng Yi, Machine Learning Lab, JD.com AI Research, Beijing & Nanjing_, Jun 2018 - Aug 2018
   * Took charge of an automatic customer service project in its second phase, discovered a better classiﬁcation strategy using data mining technique, improved the theoretical performance from 20% to around 80% with slight compromise
   * Designed and realized the advertising system in no-salesman stores using cameras to classify potential customers, and then applying strategies to display corresponding goods onto the advertising screens
   * Designed an importance weighting mechanism in certain sorting algorithms to reduce time complexity
