@@ -8,7 +8,7 @@ author_profile: true
 I'm a fan of music. Although I have not received any theoretical training in music, I am strongly interested in its beats and how to perform it using vocal technique. I am a pro-level Music Game player (not a top one though) - check out some of my plays if interested! I have uploaded them both on bilibili and YouTube: [Stepmania (PC) [bilibili](https://www.bilibili.com/video/av67422894/) [YouTube](https://www.youtube.com/watch?v=7mtCqDasRP4&t=332s)] [乐动时代 (Tablet) [bilibili](https://www.bilibili.com/video/av67417951/) [YouTube](https://www.youtube.com/watch?v=ozFUyi3ZzOI)]
   - My osu!mania skin: [download](/files/macaoleaf.osk)
   - [My osu!mania page](https://osu.ppy.sh/users/7082716)
-  - My Malody skin: [download](/files/macaoleaf.zip)
+  - My Malody skin: [download](/files/macaoleaf.msz)
   - [My Malody page](http://m.mugzone.net/accounts/user/461140)
   - My Etterna skin (directly modified from bai-xi): [download](/files/macaoleaf-readme-first.zip)
   - [My Etterna page](https://etternaonline.com/user/macaoleaf)
